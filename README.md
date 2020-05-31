@@ -51,3 +51,10 @@
    任务二：利用OpenMP编写并行奇偶排序算法
    
        要求：利用一个parallel指令和两个for指令 
+## 0hpc_work
+学习笔记
+## ex progs
+教材源码
+
+## pdf
+课后题答案
