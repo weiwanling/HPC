@@ -1,0 +1,97 @@
+==================
+4 cities
+==================
+Elapsed time = 8.952900e-05 seconds
+==================
+5 cities
+==================
+Elapsed time = 6.492300e-05 seconds
+==================
+6 cities
+==================
+Elapsed time = 2.246810e-04 seconds
+==================
+7 cities
+==================
+Elapsed time = 1.402900e-04 seconds
+==================
+8 cities
+==================
+Elapsed time = 4.806250e-04 seconds
+==================
+9 cities
+==================
+Elapsed time = 6.607260e-04 seconds
+==================
+10 cities
+==================
+Elapsed time = 2.895487e-03 seconds
+==================
+11 cities
+==================
+Elapsed time = 2.308993e-03 seconds
+==================
+12 cities
+==================
+Elapsed time = 2.187037e-02 seconds
+==================
+13 cities
+==================
+Elapsed time = 9.576484e-02 seconds
+==================
+14 cities
+==================
+Elapsed time = 2.789718e-02 seconds
+==================
+15 cities
+==================
+Elapsed time = 4.408667e-01 seconds
+==================
+16 cities
+==================
+Elapsed time = 8.884867e-01 seconds
+==================
+17 cities
+==================
+Elapsed time = 3.042235e+00 seconds
+==================
+18 cities
+==================
+Elapsed time = 2.901524e+00 seconds
+==================
+19 cities
+==================
+Elapsed time = 3.052135e+01 seconds
+
+==================
+1 threads
+==================
+Elapsed time = 5.360680e-04 seconds
+==================
+2 threads
+==================
+Elapsed time = 4.308180e-04 seconds
+==================
+3 threads
+==================
+Elapsed time = 4.257010e-04 seconds
+==================
+4 threads
+==================
+Elapsed time = 9.995025e-03 seconds
+==================
+5 threads
+==================
+Elapsed time = 7.480470e-04 seconds
+==================
+6 threads
+==================
+Elapsed time = 6.392080e-04 seconds
+==================
+7 threads
+==================
+Elapsed time = 8.194610e-04 seconds
+==================
+8 threads
+==================
+Elapsed time = 1.054334e-03 seconds

@@ -1,0 +1,208 @@
+*************rec start *************
+
+=======================
+rec program  4 cities
+=======================
+Elapsed time = 9.536743e-07 seconds
+=======================
+rec program  5 cities
+=======================
+Elapsed time = 5.960464e-06 seconds
+=======================
+rec program  6 cities
+=======================
+Elapsed time = 1.621246e-05 seconds
+=======================
+rec program  7 cities
+=======================
+Elapsed time = 8.797646e-05 seconds
+=======================
+rec program  8 cities
+=======================
+Elapsed time = 4.940033e-04 seconds
+=======================
+rec program  9 cities
+=======================
+Elapsed time = 7.510185e-04 seconds
+=======================
+rec program  10 cities
+=======================
+Elapsed time = 5.348206e-03 seconds
+=======================
+rec program  11 cities
+=======================
+Elapsed time = 2.955914e-03 seconds
+=======================
+rec program  12 cities
+=======================
+Elapsed time = 2.183914e-02 seconds
+=======================
+rec program  13 cities
+=======================
+Elapsed time = 1.378529e-01 seconds
+=======================
+rec program  14 cities
+=======================
+Elapsed time = 3.595877e-02 seconds
+=======================
+rec program  15 cities
+=======================
+Elapsed time = 6.605532e-01 seconds
+=======================
+rec program  16 cities
+=======================
+Elapsed time = 1.450958e+00 seconds
+=======================
+rec program  17 cities
+=======================
+Elapsed time = 3.977059e+00 seconds
+=======================
+rec program  18 cities
+=======================
+Elapsed time = 3.609269e+00 seconds
+=======================
+rec program  19 cities
+=======================
+Elapsed time = 3.804799e+01 seconds
+
+*************rec end *************
+
+
+*************iter1 start *************
+
+=======================
+iter1 program  4 cities
+=======================
+Elapsed time = 3.099442e-06 seconds
+=======================
+iter1 program  5 cities
+=======================
+Elapsed time = 6.914139e-06 seconds
+=======================
+iter1 program  6 cities
+=======================
+Elapsed time = 1.907349e-05 seconds
+=======================
+iter1 program  7 cities
+=======================
+Elapsed time = 8.797646e-05 seconds
+=======================
+iter1 program  8 cities
+=======================
+Elapsed time = 3.359318e-04 seconds
+=======================
+iter1 program  9 cities
+=======================
+Elapsed time = 7.140636e-04 seconds
+=======================
+iter1 program  10 cities
+=======================
+Elapsed time = 4.659891e-03 seconds
+=======================
+iter1 program  11 cities
+=======================
+Elapsed time = 2.847195e-03 seconds
+=======================
+iter1 program  12 cities
+=======================
+Elapsed time = 2.082300e-02 seconds
+=======================
+iter1 program  13 cities
+=======================
+Elapsed time = 1.273639e-01 seconds
+=======================
+iter1 program  14 cities
+=======================
+Elapsed time = 3.406000e-02 seconds
+=======================
+iter1 program  15 cities
+=======================
+Elapsed time = 6.066809e-01 seconds
+=======================
+iter1 program  16 cities
+=======================
+Elapsed time = 1.321141e+00 seconds
+=======================
+iter1 program  17 cities
+=======================
+Elapsed time = 3.646478e+00 seconds
+=======================
+iter1 program  18 cities
+=======================
+Elapsed time = 3.330955e+00 seconds
+=======================
+iter1 program  19 cities
+=======================
+Elapsed time = 3.457839e+01 seconds
+
+*************iter1 end *************
+
+
+*************iter2 start *************
+
+=======================
+iter2 program  4 cities
+=======================
+Elapsed time = 3.814697e-06 seconds
+=======================
+iter2 program  5 cities
+=======================
+Elapsed time = 1.597404e-05 seconds
+=======================
+iter2 program  6 cities
+=======================
+Elapsed time = 2.217293e-05 seconds
+=======================
+iter2 program  7 cities
+=======================
+Elapsed time = 1.261234e-04 seconds
+=======================
+iter2 program  8 cities
+=======================
+Elapsed time = 4.749298e-04 seconds
+=======================
+iter2 program  9 cities
+=======================
+Elapsed time = 8.170605e-04 seconds
+=======================
+iter2 program  10 cities
+=======================
+Elapsed time = 5.779982e-03 seconds
+=======================
+iter2 program  11 cities
+=======================
+Elapsed time = 3.304958e-03 seconds
+=======================
+iter2 program  12 cities
+=======================
+Elapsed time = 2.495885e-02 seconds
+=======================
+iter2 program  13 cities
+=======================
+Elapsed time = 1.499929e-01 seconds
+=======================
+iter2 program  14 cities
+=======================
+Elapsed time = 4.013300e-02 seconds
+=======================
+iter2 program  15 cities
+=======================
+Elapsed time = 7.183640e-01 seconds
+=======================
+iter2 program  16 cities
+=======================
+Elapsed time = 1.553304e+00 seconds
+=======================
+iter2 program  17 cities
+=======================
+Elapsed time = 4.259880e+00 seconds
+=======================
+iter2 program  18 cities
+=======================
+Elapsed time = 3.853408e+00 seconds
+=======================
+iter2 program  19 cities
+=======================
+Elapsed time = 4.005211e+01 seconds
+
+*************iter2 end *************

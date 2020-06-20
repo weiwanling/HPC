@@ -1,0 +1,16 @@
+(base) wei@wei-PC:~/hpc_train$ mpdboot -f -n 2 ~/mpd.hosts
+(base) wei@wei-PC:~/hpc_train$ mpdtrace -l
+wei-PC_42061 (192.168.43.103)
+wei1_41063 (47.189.56.143)
+(base) wei@wei-PC:~/hpc_train$
+
+
+
+ 
+
+
+[centos01@Node2 ~]$ mpdboot -n 2 -f ~/.mpd.host
+[centos01@Node2 ~]$ mpdtrace -l
+Node2_39851 (192.168.141.129)
+Node1_38085 (192.168.141.128)
+[centos01@Node2 ~]$
